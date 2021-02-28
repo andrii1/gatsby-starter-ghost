@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://onlinehikes.herokuapp.com",
+    "contentApiKey": "123f374dba4da5539af95770a8"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://onlinehikes.herokuapp.com",
+    "contentApiKey": "123f374dba4da5539af95770a8"
   }
 }
